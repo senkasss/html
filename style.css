@@ -24,3 +24,11 @@ color:violet;
     font-family:Courier New;
 
 }
+
+.class5{
+    font-style:oblique;
+    text-align: center;
+    font-size: 24pt;
+    text-shadow:2px 2px 4px rgba(0, 255, 0, 1);
+
+}
