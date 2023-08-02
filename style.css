@@ -1,0 +1,26 @@
+h1{
+    background:red
+
+}
+
+.class1 {
+background:blue;
+font-size:32 pt;
+color:violet;
+}
+.class2 {
+    border: 10px solid yellow;
+    border-radius: 5 px;
+    font-size: 24 pt;
+    margin-bottom: 60 pt;
+    padding-bottom: 60 px;
+    padding-left: 20 px;
+
+}
+
+.class3 {
+    font-weight:bold;
+    font-size: 24 px;
+    font-family:Courier New;
+
+}
